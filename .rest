@@ -1,0 +1,5 @@
+### Get each contact in the database
+GET https://cse-341-preoject1.onrender.com/contacts
+
+### Get a specific contact
+GET https://cse-341-preoject1.onrender.com/contacts/6aa889965625f3ea06010e1c
